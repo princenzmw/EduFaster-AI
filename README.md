@@ -1,6 +1,10 @@
 # EduFaster-AI: Personalized Education Multi-Agent System 🎓
 
-EduFaster-AI is an adaptive tutoring system designed to teach Python Basics. Built using a multi-agent architecture via LangGraph, it divides cognitive labor among specialized AI agents to deliver a superior learning experience. 
+EduFaster-AI is an adaptive tutoring system designed to teach Python Basics. Built using a multi-agent architecture via LangGraph, it divides cognitive labor among specialized AI agents to deliver a superior learning experience.
+
+## 🎥 Demo Preview
+
+[![EduFaster AI Demo](https://github.com/user-attachments/assets/db21037f-a79d-4bd5-9082-622d7b74b394)](media/demo.mp4)
 
 ## 🏗 Architecture Diagram
 *This workflow relies on the LangGraph hierarchical supervisor pattern.*
