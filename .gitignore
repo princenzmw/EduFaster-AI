@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.log
+.env
+venv/
+.streamlit/secrets.toml
+.pypirc
+pip-log.txt
+pip-delete-this-directory.txt.env
