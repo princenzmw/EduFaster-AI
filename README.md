@@ -17,7 +17,7 @@ EduFaster-AI is an adaptive tutoring system designed to teach Python Basics. Bui
 </p>
 
 <p align="center">
-  Click the GIF above to watch the full demo video.
+  Click the GIF above, the click on <a href="https://github.com/princenzmw/EduFaster-AI/raw/refs/heads/main/media/demo.mp4" target="_blank">View raw</a> to watch/download the full demo video.
 </p>
 
 ## 🏗 Architecture Diagram
